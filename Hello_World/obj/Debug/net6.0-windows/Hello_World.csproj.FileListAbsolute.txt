@@ -1,0 +1,17 @@
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.csproj.AssemblyReference.cache
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.csproj.GenerateResource.cache
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.AssemblyInfoInputs.cache
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.AssemblyInfo.cs
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\bin\Debug\net6.0-windows\Hello_World.exe
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\bin\Debug\net6.0-windows\Hello_World.deps.json
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\bin\Debug\net6.0-windows\Hello_World.runtimeconfig.json
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\bin\Debug\net6.0-windows\Hello_World.dll
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\bin\Debug\net6.0-windows\Hello_World.pdb
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.dll
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\refint\Hello_World.dll
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.pdb
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.genruntimeconfig.cache
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\ref\Hello_World.dll
+C:\Users\EMRE\source\repos\Hello_World\Hello_World\obj\Debug\net6.0-windows\Hello_World.HelloWorld.resources
